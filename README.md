@@ -2,7 +2,7 @@
 Eu tenho 20 anos de idade, estou cursando Gestão Empresarial na Fatec e tenho formação técnica em Informática, além de conhecimento em análise de dados.  
 
 ### Principais Ferramentas:
-<div stylr='display: inline_block'><br/>
+<div stylr='display: inline_block'>
     <img align='center' alt='Python' src= 'https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
     <img align='center' alt='R' src= 'https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white'/>
     <img align='center' alt='SQL' src= 'https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>
