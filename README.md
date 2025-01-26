@@ -1,4 +1,4 @@
-### Olá, Eu me chamo Samuel Cardoso! 🫡
+### Olá! Eu me chamo Samuel Cardoso! 🫡
 Eu tenho 20 anos de idade, estou cursando Gestão Empresarial na Fatec e tenho formação técnica em Informática, além de conhecimento em análise de dados.  
 
 ### Principais Ferramentas:
