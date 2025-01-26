@@ -11,4 +11,4 @@ Eu tenho 20 anos de idade, estou cursando Gestão Empresarial na Fatec e tenho f
      <img align='center' alt='Tableau' src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white'/>
 </div><br/>
 Aplicabilidade para análise de dados. <br/>
-Concete-se comigo no LinkedIn.
+Concete-se comigo no LinkedIn. 🌐
