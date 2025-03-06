@@ -11,5 +11,5 @@ Eu tenho 20 anos de idade, estou cursando Gestão Empresarial na Fatec e tenho f
     <img align='center' alt='PowerPoint' src= 'https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white'/>
      <img align='center' alt='Tableau' src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white'/>
 </div><br/>
-Aplicabilidade para análise de dados. <br/>
+Portfólio em construção... <br/>
 Concete-se comigo no LinkedIn. 🌐
