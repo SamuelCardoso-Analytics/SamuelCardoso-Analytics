@@ -1,7 +1,7 @@
-### Olá! Eu me chamo Samuel Cardoso! 🫡
-Eu tenho 21 anos de idade, estou cursando Gestão Empresarial na Fatec e tenho formação técnica em Informática, além de conhecimento em análise de dados.  
+### Hi! I'm Samuel Cardoso! 🫡
+I'm professional with experience in process automation and data analysis, and this is my portfolio
 
-### Principais Ferramentas:
+### Main tools:
 <div stylr='display: inline_block'>
     <a href='https://github.com/SamuelCardoso-Analytics'>
     <img align='center' alt='Python' src= 'https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
@@ -11,5 +11,5 @@ Eu tenho 21 anos de idade, estou cursando Gestão Empresarial na Fatec e tenho f
     <img align='center' alt='PowerPoint' src= 'https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white'/>
      <img align='center' alt='Tableau' src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white'/>
 </div><br/>
-Portfólio em construção... <br/>
-Concete-se comigo no LinkedIn. 🌐
+Building portfolio... <br/>
+connect with me on LinkedIn. 🌐
