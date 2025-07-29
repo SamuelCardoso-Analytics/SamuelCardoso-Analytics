@@ -12,4 +12,4 @@ I'm professional with experience in process automation and data analysis, and th
      <img align='center' alt='Tableau' src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white'/>
 </div><br/>
 Building portfolio... <br/>
-connect with me on LinkedIn. 🌐
+Connect with me on LinkedIn. 🌐
