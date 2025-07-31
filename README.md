@@ -1,6 +1,7 @@
 # Welcome to my GitHub profile 🫡
 
 Hi! I'm Samuel Cardoso! 
+<br/>
 I'm professional with experience in process automation and data analysis, and this is my portfolio
 
 ## Main tools:
