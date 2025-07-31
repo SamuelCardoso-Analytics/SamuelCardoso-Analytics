@@ -1,4 +1,4 @@
-# welcome to my GitHub profile 🫡
+# Welcome to my GitHub profile 🫡
 
 Hi! I'm Samuel Cardoso! 
 I'm professional with experience in process automation and data analysis, and this is my portfolio
