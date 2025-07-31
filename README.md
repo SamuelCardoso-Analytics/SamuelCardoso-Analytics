@@ -1,7 +1,9 @@
-### Hi! I'm Samuel Cardoso! 🫡
+# welcome to my GitHub profile 🫡
+
+Hi! I'm Samuel Cardoso! 
 I'm professional with experience in process automation and data analysis, and this is my portfolio
 
-### Main tools:
+## Main tools:
 <div stylr='display: inline_block'>
     <a href='https://github.com/SamuelCardoso-Analytics'>
     <img align='center' alt='Python' src= 'https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
