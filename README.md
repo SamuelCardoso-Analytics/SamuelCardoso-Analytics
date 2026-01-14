@@ -1,12 +1,8 @@
-<div align="center">
-
 # Welcome to my GitHub profile 🫡 
 **`Samuel Cardoso - Credit Strategy Analyst`**
 
 Hi! I'm professional with experience in process automation and data analysis, and this is my portfolio.
-<br/><br/>
-
-## Main tools
+<br/>
 <div stylr='display: inline_block'>
     <a href='https://github.com/SamuelCardoso-Analytics'>
     <img align='center' alt='Databricks' src='https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white'/>
@@ -17,7 +13,7 @@ Hi! I'm professional with experience in process automation and data analysis, an
     <img align='center' alt='R' src= 'https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white'/>
 </div><br/>
 
-## Metrics   
+## Metrics
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuelCardoso-Analytics&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamuelCardoso-Analytics&theme=github_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamuelCardoso-Analytics&theme=github_dark)
