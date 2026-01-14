@@ -19,4 +19,4 @@ Hi! I'm professional with experience in process automation and data analysis, an
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamuelCardoso-Analytics&theme=github_dark)
 
 Building portfolio... <br/>
-Connect with me on LinkedIn. 🌐
+Connect with me on LinkedIn 🌐
