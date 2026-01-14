@@ -1,10 +1,10 @@
 # Welcome to my GitHub profile 🫡
+**`Samuel Cardoso - Credit Strategy Analyst`**
 
-Hi! I'm Samuel Cardoso! 
+Hi! I'm professional with experience in process automation and data analysis, and this is my portfolio.
 <br/>
-I'm professional with experience in process automation and data analysis, and this is my portfolio.
 
-## Main tools:
+## Main tools
 <div stylr='display: inline_block'>
     <a href='https://github.com/SamuelCardoso-Analytics'>
     <img align='center' alt='Databricks' src='https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white'/>
@@ -14,5 +14,6 @@ I'm professional with experience in process automation and data analysis, and th
     <img align='center' alt='R' src= 'https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white'/>
     <img align='center' alt='SQL' src= 'https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white'/>
 </div><br/>
+
 Building portfolio... <br/>
 Connect with me on LinkedIn. 🌐
