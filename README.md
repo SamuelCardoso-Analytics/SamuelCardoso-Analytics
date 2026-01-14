@@ -16,9 +16,9 @@ Hi! I'm professional with experience in process automation and data analysis, an
 </div><br/>
 
 ## Metrics   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuelCardoso-Analytics&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamuelCardoso-Analytics&theme=nord_dark) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamuelCardoso-Analytics&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuelCardoso-Analytics&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamuelCardoso-Analytics&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamuelCardoso-Analytics&theme=github_dark)
 
 Building portfolio... <br/>
 Connect with me on LinkedIn. 🌐
